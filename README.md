@@ -1,1 +1,3 @@
 # Absenteeism-Forecast-model
+
+The data for this project has been extracted from the dataset Absenteeism at Work in the UCL Machine Learning Repository, which was created from records of absenteeism at work at a courier company in Brazil. This dataset contains the absenteeism time (in hours), together with information on transportation expense, distance from residence to work, service time and some personal details. Data are provided for about three years, from July 2007 to July 2010. Through this analysis we tried to forecast absenteeism time and we achived it by exploring the training dataset and by fitting a statistical model to the training data and use it to forecast the absenteeism time for the test dataset.
